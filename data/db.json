@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Flood Halo",
+      "body": "Battle of Installation 04",
+      "author": "John 117",
+      "id": 1
+    },
+    {
+      "title": "Forerunner Flood War",
+      "body": "Battle between forerunners and the flood",
+      "author": "Iso Diadact",
+      "id": 2
+    }
+  ]
+}
